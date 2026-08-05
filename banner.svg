@@ -46,7 +46,7 @@
 
     <!-- name -->
     <text class="name" x="600" y="176" text-anchor="middle" font-size="58" font-weight="500" fill="#5D5DFF">
-      &lt;ChristophRuckensteiner/&gt;
+      &lt;Chrisinho8/&gt;
       <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
     </text>
 
