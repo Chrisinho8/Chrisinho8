@@ -47,25 +47,6 @@
 
 ---
 
-## 🔬 Projects
-
-### 🕸️ RAG System with Knowledge Graph — *Bachelor's Thesis*
-`Netherlands Ministry of Defence · Research Project` · **Mar 2026 – Jul 2026**
-
-RAG pipeline with an integrated knowledge graph for semantic retrieval over peer-reviewed research papers.
-
-- Embedded ~**3,000 documents** with Mistral AI for retrieval and evaluation
-- Owned the full pipeline: ingestion → graph structuring → retrieval serving
-- Containerised with Docker, shipped via CI/CD, evaluation results landed in **Delta Lake**
-
-### 📉 Model Complexity & Generalisation: Double Descent
-`University Project · Machine Learning` · **Dec 2025 – Mar 2026**
-
-- Studied double descent in ridge regression across **150 model complexities × 20 seeds** — baseline, covariate shift (μ = 1.0), feature correlation (ρ = 0.7)
-- Global minimum stays in the overparameterised regime in all three scenarios
-- Paired t-test confirms the advantage (**MSE 10.2 vs. 21.9; p < 0.001**)
-
----
 
 ## 📜 Certifications
 
