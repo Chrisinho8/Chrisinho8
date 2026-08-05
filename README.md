@@ -44,17 +44,3 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-
-## 📜 Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Databricks Certified Data Engineer Associate | Databricks | Jul 2026 |
-| Git and GitHub Bootcamp | Udemy | Apr 2026 |
-| Model Context Protocol: Advanced Topics | Anthropic | Mar 2026 |
-| Building with Claude API | Anthropic | Feb 2026 |
-| Certified Ski Instructor | Austrian State Licence | Oct 2022 |
-
