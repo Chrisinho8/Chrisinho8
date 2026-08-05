@@ -34,7 +34,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,postgres,aws,docker,git,github,linux" alt="core stack" />
 
 </div>
 
