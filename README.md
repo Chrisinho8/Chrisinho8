@@ -5,7 +5,7 @@
   3. Find & replace GITHUB-USERNAME below with your actual handle
 -->
 
-<img src="banner.svg" alt="Christoph Ruckensteiner" width="100%" />
+<img src="banner.svg" alt="Chrisinho8" width="100%" />
 
 <div align="center">
 
