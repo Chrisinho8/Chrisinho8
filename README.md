@@ -9,7 +9,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5D5DFF&center=true&vCenter=true&width=520&lines=Data+Engineer;Pipeline+Builder;RAG+%26+Knowledge+Graphs;Pythonist" alt="Typing SVG" />
 
 <br/>
 
