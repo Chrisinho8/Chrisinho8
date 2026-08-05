@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 
-- 🎓 **BSc Data Science / Business Analytics** — *Vrije Universiteit Amsterdam*
+- 🎓 **BSc Data Science / Business Analytics** - *Vrije Universiteit Amsterdam*
 - 🔧 I am focusing on the **engineering side of data**: databases, ETL/ELT pipelines, systems that don't fall over
 - 🧠 Built a **RAG system on top of a knowledge graph** for my bachelor's thesis *(Netherlands Ministry of Defence)*
 - 🌍 Innsbruck, Austria · German (native) · English (C1) · Spanish (B1)
