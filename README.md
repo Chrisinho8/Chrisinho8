@@ -14,7 +14,7 @@
 ## 💫 About Me
 
 - 🎓 **BSc Data Science / Business Analytics** at *Vrije Universiteit Amsterdam*
-- 🔧 I sit on the **engineering side of data** — databases, ETL/ELT pipelines, and systems that don't fall over
+- 🔧 I sit on the **engineering side of data** - databases, ETL/ELT pipelines, and systems that don't fall over
 - 🧠 Built a **RAG system on top of a knowledge graph** for my bachelor's thesis (Netherlands Ministry of Defence)
 - 📍 Based in Innsbruck, Austria · 🗣️ German (native), English (C1), Spanish (B1)
 - 🚀 Looking to start my career in a **data engineering** role
@@ -87,16 +87,6 @@ RAG pipeline with an integrated knowledge graph for semantic retrieval over peer
 | Certified Ski Instructor | Austrian State Licence | Oct 2022 |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GITHUB-USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB-USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=GITHUB-USERNAME&theme=github-dark&hide_border=true" />
 
 <br/><br/>
