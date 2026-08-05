@@ -37,7 +37,6 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 **ML & GenAI**
 
@@ -86,11 +85,3 @@ RAG pipeline with an integrated knowledge graph for semantic retrieval over peer
 | Building with Claude API | Anthropic | Feb 2026 |
 | Certified Ski Instructor | Austrian State Licence | Oct 2022 |
 
----
-<img src="https://streak-stats.demolab.com?user=GITHUB-USERNAME&theme=github-dark&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&style=flat-square&color=2E7D8F&label=Profile+Views" />
-
-</div>
