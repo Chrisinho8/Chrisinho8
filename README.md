@@ -1,9 +1,4 @@
-<!--
-  SETUP
-  1. Create a PUBLIC repo named exactly your GitHub username
-  2. Put README.md and banner.svg in the repo root
-  3. Find & replace GITHUB-USERNAME below with your actual handle
--->
+
 
 <img src="banner.svg" alt="Chrisinho8" width="100%" />
 
@@ -22,10 +17,10 @@
 
 ## 💫 About Me
 
-- 🎓 **BSc Data Science / Business Analytics** - *Vrije Universiteit Amsterdam*
-- 🔧 I am focusing on the **engineering side of data**: databases, ETL/ELT pipelines, systems that don't fall over
+- 🎓 **BSc Data Science** - *Vrije Universiteit Amsterdam*
+- 🔧 I am focusing on the **engineering side of data**: databases, ETL/ELT pipelines, CI/CD and more..
 - 🧠 Built a **RAG system on top of a knowledge graph** for my bachelor's thesis *(Netherlands Ministry of Defence)*
-- 🌍 Innsbruck, Austria · German (native) · English (C1) · Spanish (B1)
+- 🌍 Innsbruck, Austria · German (native) · English (C1) 
 - 🚀 Looking to start my career in a **data engineering** role
 
 ---
