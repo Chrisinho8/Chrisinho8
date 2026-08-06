@@ -20,7 +20,6 @@
 - 🎓 **BSc Data Science** - *Vrije Universiteit Amsterdam*
 - 🔧 I am focusing on the **engineering side of data**: databases, ETL/ELT pipelines, CI/CD and more..
 - 🧠 Built a **RAG system on top of a knowledge graph** for my bachelor's thesis *(Netherlands Ministry of Defence)*
-- 🌍 Innsbruck, Austria · German (native) · English (C1) 
 - 🚀 Looking to start my career in a **data engineering** role
 
 ---
