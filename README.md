@@ -1,6 +1,6 @@
 
 
-<img src="banner.svg" alt="Chrisinho8" width="100%" />
+<img src="GitHub-header-banner.png" alt="Chrisinho8" width="100%" />
 
 <div align="center">
 
