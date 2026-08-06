@@ -1,6 +1,6 @@
 
 
-<img src="github-header-banner.png" alt="Chrisinho8" width="100%" />
+![Header](./github-header-banner.png)
 
 <div align="center">
 
