@@ -1,11 +1,6 @@
-
-
-<img src="banner.svg" alt="Chrisinho8" width="100%" />
-
 <div align="center">
 
-
-<br/>
+# Hey, I'm Christoph 👋
 
 <a href="mailto:chrisse.ruck@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/cruckensteiner112"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -26,13 +21,6 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-
-</div>
-
-<br/>
-
 |  |  |
 |:--|:--|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
@@ -40,5 +28,3 @@
 | **GenAI** | ![RAG](https://img.shields.io/badge/RAG-5D5DFF?style=flat-square) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-4B4BD1?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white) |
 | **Cloud & Ops** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | **BI** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-
-
