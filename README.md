@@ -4,10 +4,7 @@
 
 <a href="mailto:chrisse.ruck@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/cruckensteiner112"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Munich,%20DE-161B22?style=for-the-badge&logo=googlemaps&logoColor=5D5DFF" />
-<img src="https://img.shields.io/badge/Amsterdam,%20NL-161B22?style=for-the-badge&logo=googlemaps&logoColor=5D5DFF" />
-<img src="https://img.shields.io/badge/Innsbruck,%20AT-161B22?style=for-the-badge&logo=googlemaps&logoColor=5D5DFF" />
-
+<img src="https://img.shields.io/badge/Munich,%20DE%20%C2%B7%20Amsterdam,%20NL%20%C2%B7%20Innsbruck,%20AT-161B22?style=for-the-badge&logo=googlemaps&logoColor=5D5DFF" />
 </div>
 
 
