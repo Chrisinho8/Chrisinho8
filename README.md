@@ -17,7 +17,7 @@
 - 🧠 Built a **RAG system on top of a knowledge graph** for my bachelor's thesis *(Netherlands Ministry of Defence)*
 - 🚀 Looking to start my career in a **data engineering** role
 
----
+
 
 ## 🛠️ Tech Stack
 
