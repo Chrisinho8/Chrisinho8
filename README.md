@@ -9,12 +9,12 @@
 
 
 
-## 💫 About Me
+##  About Me
 
-- 🎓 **BSc Data Science** - Vrije Universiteit Amsterdam
-- 🔧 I am focusing on the **engineering side of data**: databases, ETL/ELT pipelines, CI/CD and more..
-- 🧠 Built a **RAG system on top of a knowledge graph** for my bachelor's thesis (Netherlands Ministry of Defence)
-- 🚀 Looking to start my career in a **data engineering** role
+🎓 **BSc Data Science** - Vrije Universiteit Amsterdam
+🔧 I am focusing on the **engineering side of data**: databases, ETL/ELT pipelines, CI/CD and more..
+🧠 Built a **RAG system on top of a knowledge graph** for my bachelor's thesis (Netherlands Ministry of Defence)
+🚀 Looking to start my career in a **data engineering** role
 
 
 
