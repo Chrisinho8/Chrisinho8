@@ -8,13 +8,12 @@
 </div>
 
 
+## About Me
 
-##  About Me
-
-🎓 **BSc Data Science** - Vrije Universiteit Amsterdam
-🔧 I am focusing on the **engineering side of data**: databases, ETL/ELT pipelines, CI/CD and more..
-🧠 Built a **RAG system on top of a knowledge graph** for my bachelor's thesis (Netherlands Ministry of Defence)
-🚀 Looking to start my career in a **data engineering** role
+* 🎓 **Education:** BSc Data Science @ Vrije Universiteit Amsterdam
+* 🔧 **Focus:** Data Engineering (Databases, ETL/ELT pipelines, CI/CD)
+* 🧠 **Thesis:** Built a Knowledge Graph-based RAG system for the Netherlands Ministry of Defence
+* 🚀 **Goal:** Seeking entry-level Data Engineering roles
 
 
 
