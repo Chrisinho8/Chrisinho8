@@ -12,7 +12,6 @@
 
 * 🎓 **Education:** BSc Data Science @ Vrije Universiteit Amsterdam
 * 🔧 **Focus:** Data Engineering (Databases, ETL/ELT pipelines, CI/CD)
-* 🧠 **Thesis:** Built a Knowledge Graph-based RAG system for the Netherlands Ministry of Defence
 * 🚀 **Goal:** Seeking entry-level Data Engineering roles
 
 
