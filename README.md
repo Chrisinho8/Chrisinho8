@@ -25,3 +25,13 @@
 | **GenAI** | ![RAG](https://img.shields.io/badge/RAG-5D5DFF?style=flat-square) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-4B4BD1?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white) |
 | **Cloud & Ops** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | **BI** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+
+## 🚧 Projects I am working on right now
+
+### DACH AI/Data Job Market Tracker
+A daily-refreshed dashboard of every live data and AI job posting in Germany, Austria and Switzerland. Roughly 3,100 postings from 1,350 employers, broken down by city, role family, seniority and required tooling.
+
+**🔗 [Live dashboard](https://<username>.github.io/<repo>/)
+
+* **Pipeline:** Adzuna API → Databricks medallion architecture (bronze/silver/gold) on Delta Lake + Unity Catalog, scheduled daily
+* **Modelling:** rule-based role-family and seniority classification, skill extraction from posting text, snapshot history table so trends accumulate instead of being overwritten
