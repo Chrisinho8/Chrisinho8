@@ -32,6 +32,3 @@
 A daily-refreshed dashboard of every live data and AI job posting in Germany, Austria and Switzerland. Roughly 3,100 postings from 1,350 employers, broken down by city, role family, seniority and required tooling.
 
 **🔗 [Live dashboard](https://<username>.github.io/<repo>/)
-
-* **Pipeline:** Adzuna API → Databricks medallion architecture (bronze/silver/gold) on Delta Lake + Unity Catalog, scheduled daily
-* **Modelling:** rule-based role-family and seniority classification, skill extraction from posting text, snapshot history table so trends accumulate instead of being overwritten
