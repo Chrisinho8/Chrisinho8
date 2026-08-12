@@ -29,6 +29,14 @@
 ## 🚧 Projects I am working on right now
 
 ### DACH AI/Data Job Market Tracker
+
 A daily-refreshed dashboard of every live data and AI job posting in Germany, Austria and Switzerland. Roughly 3,100 postings from 1,350 employers, broken down by city, role family, seniority and required tooling.
 
-**🔗 [Live dashboard](https://chrisinho8.github.io/DACH-data-job-market/))
+**🔗 [Live dashboard](https://chrisinho8.github.io/DACH-data-job-market/) · [Repo](https://github.com/chrisinho8/DACH-data-job-market)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
