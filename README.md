@@ -30,7 +30,8 @@
 
 ### DACH AI/Data Job Market Tracker
 
+**🔗 [Live dashboard](https://chrisinho8.github.io/DACH-data-job-market/)**
+
 A daily-refreshed dashboard of every live data and AI job posting in Germany, Austria and Switzerland. Roughly 3,100 postings from 1,350 employers, broken down by city, role family, seniority and required tooling.
 
-**🔗 [Live dashboard](https://chrisinho8.github.io/DACH-data-job-market/)**
 
